@@ -2,4 +2,6 @@
 
 customerName = 'bob'
 
-function c
+function upperCaseCustomerName {
+  customerName.upcase
+}
